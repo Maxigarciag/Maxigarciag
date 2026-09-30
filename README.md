@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-alt="Máximo García"
+alt="Hi, I'm Maximo Garcia."
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=7E57C2&center=true&vCenter=true&width=600&height=55&lines=M%C3%A1ximo+Garc%C3%ADa"
 />
 
